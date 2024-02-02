@@ -1,0 +1,34 @@
+
+#gameContainer{
+    text-align: center;
+    background-color: ghostwhite;
+}
+#canva{
+    border: 5px solid #8c52ff;
+    background-color: #8c52ff;
+}
+
+#score{
+    margin-top: 10px;
+    font-size: 4rem;
+    font-family: sans-serif;
+    color: rgb(75, 75, 75);
+}
+
+#restartBtn{
+
+    font-family: cursive;
+    border: 2px solid ;
+    margin-top: 20px;
+    width: 110px;
+    line-height: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: lightblue;
+    transition: background-color ease-out;
+}
+#restartBtn:hover{
+    background-color: whitesmoke;
+    
+}
